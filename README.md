@@ -1,4 +1,4 @@
 # addCommitPushScript
-Script to add, commit, and Push to github repos.
+A shell script to add, commit, and Push to github repos automatically.
 
 Run this script inside a github repo.
